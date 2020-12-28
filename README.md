@@ -1,5 +1,5 @@
 install project
-git clone https://github.com/khafid17/Company-Profile-With-Voyager.git
+git clone https://github.com/khafid17/Sistem-Informasi-Desa-Voyager.git
 
 composer install
 
