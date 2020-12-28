@@ -1,5 +1,6 @@
 install project
 git clone https://github.com/khafid17/Company-Profile-With-Voyager.git
+
 composer install
 php artisan key:generate
 
