@@ -1,3 +1,20 @@
+install project
+git clone https://github.com/khafid17/Company-Profile-With-Voyager.git
+composer install
+php artisan key:generate
+
+dokumentasi install voyager
+https://voyager-docs.devdojo.com/getting-started/installation
+
+composer require tcg/voyager
+
+APP_URL=http://localhost
+DB_HOST=localhost
+DB_DATABASE=homestead
+DB_USERNAME=homestead
+DB_PASSWORD=secret
+
+php artisan voyager:install --with-dummy
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
